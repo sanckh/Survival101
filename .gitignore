@@ -1,0 +1,37 @@
+# Unreal build output and caches (all regenerated)
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# Visual Studio / IDE (regenerate with right-click .uproject > Generate Visual Studio project files)
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+
+# Compiled output outside the folders above (.obj is not listed: it's also a 3D model format)
+*.pdb
+*.dll
+*.exe
+*.lib
+*.exp
+*.ilk
+
+# Per-developer content
+Content/Developers/
+Content/Collections/
+
+# OS
+Thumbs.db
+.DS_Store
